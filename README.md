@@ -7,5 +7,7 @@ This is a data mining project we used the knowledge of using classification ,con
 ## Used tool
 
 * Weka - A machine leraring tool.
+* CSV to arff extintion convertor.
+
 
 ## The detailed of the whole project is included in unsupervisedlearing.pdf
