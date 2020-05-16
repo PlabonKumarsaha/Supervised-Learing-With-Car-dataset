@@ -6,6 +6,6 @@ This is a data mining project we used the knowledge of using classification ,con
 
 ## Used tool
 
-*Weka
+* Weka - A machine leraring tool.
 
 ## The detailed of the whole project is included in unsupervisedlearing.pdf
